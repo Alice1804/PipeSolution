@@ -1,0 +1,10 @@
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Server\Server\bin\Debug\Server.exe.config
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Server\Server\bin\Debug\Server.exe
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Server\Server\bin\Debug\Server.pdb
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Server\Server\bin\Debug\Shared.dll
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Server\Server\bin\Debug\Shared.pdb
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Server\Server\obj\Debug\Server.csproj.CopyComplete
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Server\Server\obj\Debug\Server.exe
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Server\Server\obj\Debug\Server.pdb

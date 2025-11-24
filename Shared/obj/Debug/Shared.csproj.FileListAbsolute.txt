@@ -1,0 +1,6 @@
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Shared\bin\Debug\Shared.dll
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Shared\bin\Debug\Shared.pdb
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Shared\obj\Debug\Shared.dll
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Shared\obj\Debug\Shared.pdb

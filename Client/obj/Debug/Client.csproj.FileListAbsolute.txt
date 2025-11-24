@@ -1,0 +1,10 @@
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Client\bin\Debug\Client.exe.config
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Client\bin\Debug\Client.exe
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Client\bin\Debug\Client.pdb
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Client\bin\Debug\Shared.dll
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Client\bin\Debug\Shared.pdb
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Client\obj\Debug\Client.csproj.CopyComplete
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Client\obj\Debug\Client.exe
+D:\3 курс\ПМ.03 Лакеева\Project\PipeSolution\Client\obj\Debug\Client.pdb
